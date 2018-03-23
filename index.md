@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to AI Ascendant
 
-You can use the [editor on GitHub](https://github.com/aenikata/aiascendant/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+As a group of commited developers and technologists, we believe that Artificial Intelligence is rapidly increasing in important in all aspects of peoples lives in a way that will transform not just business and commerce but human experience. Having been working with technology for more than 20 years, we've seen the rise of sophisticated web pages and mobile applications and so on transforming how we shop, how we communicate, how we engage with customers and more.
+Now is the time where Machine Learning and Artificial Intelligence transform things further, with automation, with better targetting, with improved interfaces, with better decision-making and more. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who We Are
 
-### Markdown
+A small UK-based team, we've all have more than a decade's experience in areas of IT including project management, web development, mobile development, Artificial Intelligence and mroe.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How We Can Help
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aenikata/aiascendant/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We believe that the Unicorns and other big businesses of the future will be those who embrace the escalating pace of change, who embrace the latest technologies, and who embrace all the thinking required to do so in an honest and ethical manner. Beyond helping make technology decisions, we can advise on some of the pitfalls from this path - Data Protection and Privacy, for example, having caused massive damage to the reputations of the likes of Facebook and Cambridge Analytica. We aim to ensure that our skills cover cyber-security, legal and ethical concerns. Trust has never been so important to businesses, nor so quickly lost.
